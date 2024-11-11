@@ -21,6 +21,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         Log.i("on","ABC");
-        Log.i("Test","test");
+
     }
 }
